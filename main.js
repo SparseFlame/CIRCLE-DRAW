@@ -1,6 +1,6 @@
 var mouseEvent = "empty";
 var lx , ly;
-cavas = document.getElementById('myCanvas');
+canvas = document.getElementById('myCanvas');
 ctx = canvas.getContext("2d");
 color = "blue";
 width = 10;
